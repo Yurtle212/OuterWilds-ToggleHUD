@@ -1,0 +1,1 @@
+Adds settings to remove suit hud, targeting hud, and reticle.
